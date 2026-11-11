@@ -1,7 +1,7 @@
 # Graph Algorithms: BFS and Dijkstra's
 
 ## Overview
-This was a project for my CS315 Algorithm Design class and had me implement graph traversal and shortest-path algorithms in C++. It explores how graphs can represent connections between locations and the implementation of BFS and Dijkstra's algorithm to construct shortest paths from any 2 points
+This was a project for my CS315 Algorithm Design class and had me implement graph traversal and shortest-path algorithms in C++. It explores how graphs can represent connections between locations and the implementation of BFS and Dijkstra's algorithm to construct shortest paths from any 2 nodes.
 
 ## Algorithms Implemented
 
