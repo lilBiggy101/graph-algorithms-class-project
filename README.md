@@ -1,7 +1,7 @@
 # Graph Algorithms: BFS and Dijkstra's
 
 ## Overview
-This project implements graph traversal and shortest-path algorithms in C++. It explores how graphs can represent connections between locations and how different algorithms can be used to navigate them.
+This was a project for my CS315 Algorithm Design class and had me implement graph traversal and shortest-path algorithms in C++. It explores how graphs can represent connections between locations and the implementation of BFS and Dijkstra's algorithm to construct shortest paths from any 2 points
 
 ## Algorithms Implemented
 
@@ -15,17 +15,14 @@ This project implements graph traversal and shortest-path algorithms in C++. It 
 - Uses edge weights to calculate the minimum distance to other vertices.
 - Tracks parent vertices to reconstruct shortest paths.
 
-## Concepts Covered
-- Graphs and adjacency lists
-- Breadth-First Search (BFS)
-- Dijkstra's shortest-path algorithm
-- Queues and priority queues
-- Vertex distances and parent tracking
-- Path reconstruction
+## How To Run
+1. Copy Repo
+2. Compile with g++ -g Graph.cpp -o Graph
+3. Run with ./Graph and type Hobbiton when prompted
 
 ## Technologies
 - C++
 - Standard Template Library (STL)
 
 ## Purpose
-The purpose of this assignment is to practice implementing graph algorithms, understand graph traversal, and compare approaches to finding shortest paths in unweighted and weighted graphs.
+This project taught me about how graphs are represented through Adjacency lists and how graphing algorithms can be used to find the shortest path from a starting node to an ending node. 
