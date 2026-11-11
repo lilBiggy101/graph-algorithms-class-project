@@ -8,6 +8,7 @@
 #include <stdexcept>
 #include <set>
 #include <unordered_map>
+#include <cstdint>
 using namespace std;
 
 enum colors { white, grey, black };
