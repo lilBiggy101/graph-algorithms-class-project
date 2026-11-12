@@ -1,9 +1,7 @@
 # Graph Algorithms: BFS and Dijkstra's
 
-![C++](https://img.shields.io/badge/C%2B%2B-blue) ![Course](https://img.shields.io/badge/CS315-Algorithm%20Design-lightgrey)
-
 ## Overview
-A C++ project that models a map of Middle-earth as a graph and finds paths between locations using Breadth-First Search (BFS) and Dijkstra's algorithm. Built for my CS315 Algorithm Design class.
+A C++ project built for my CS315 Algorithm Design class that models a map of Middle-earth as a graph and finds paths between locations using Breadth-First Search (BFS) and Dijkstra's algorithm. 
 
 ## Algorithms Implemented
 ### Breadth-First Search (BFS)
@@ -30,7 +28,7 @@ cd graph-algorithms-class-project
 g++ -g Graph.cpp -o Graph
 ./Graph
 ```
-When prompted, enter a starting location, for example `Hobbiton`.
+When prompted, Please enter "Hobbiton"
 
 ## Technologies
 - C++
